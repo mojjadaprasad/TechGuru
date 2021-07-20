@@ -8,7 +8,7 @@ pipeline{
     }
   stage("run backend"){
       steps{
-        echo 'Hello Backend...'
+        echo 'Hello Backend....'
       }
     }
     }
