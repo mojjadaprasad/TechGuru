@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage("run frontend"){
       steps{
-        echo "Hello frontend"
+        echo 'Hello frontend'
       }
     }
   stage("run backend"){
